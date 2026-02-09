@@ -1,4 +1,5 @@
-# Hi there, I'm [liri](https://github.com/lirrensi) &lt;img src=&quot;https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif&quot; width=&quot;30px&quot;/&gt;
+# Hi there, I'm [liri](https://github.com/lirrensi)
+![cat](https://raw.githubusercontent.com/lirrensi/lirrensi.github.io/refs/heads/main/img/le_cat.png)
 
 ![Fullstack Sloperator | Machine Sorcerer](https://img.shields.io/badge/Fullstack%20Sloperator%20%7C%20Machine%20Sorcerer-🎩✨-blueviolet?style=for-the-badge&amp;logo=javascript&amp;logoColor=white)
 
