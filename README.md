@@ -14,22 +14,17 @@
 *(AI/ML agents, CLI sorcery, fullstack vibes)*
 
 ## 📂 Triple-regenerated devslop:
-*Sorted by last updated. Easy-peasy to trim! ✂️*
 
-- **[loophole](https://github.com/lirrensi/loophole)** · Continuous ASR \| dictation app that runs however long... · `Python` · ⭐ 0 · Feb 09, 2026
-- **[silc](https://github.com/lirrensi/silc)** · SILC is a bridge to allow one-many parties to interact with same terminal... · `Python` · ⭐ 0 · Feb 09, 2026
-- **[nexi-search](https://github.com/lirrensi/nexi-search)** · A quick cli search when your stupid agents have problems searching · `Python` · ⭐ 0 · Feb 09, 2026
-- **[ChatLayer](https://github.com/lirrensi/ChatLayer)** · Human-in-the-loop conversation middleware for customer-facing bots... · `TypeScript` · ⭐ 0 · Feb 05, 2026
-- **[tamper-guard](https://github.com/lirrensi/tamper-guard)** · simple canary script to improve windows security on login screen · `PowerShell` · ⭐ 0 · Jan 28, 2026
-- **[swarmkeeper](https://github.com/lirrensi/swarmkeeper)** · Mini tmux session wrapper that looks inside and checks if your coding agent is slacking... · `Python` · ⭐ 0 · Jan 28, 2026
-- **[easycmd](https://github.com/lirrensi/easycmd)** · VSCode extension for easy exec cmd commands from special file or directly from comments · `TypeScript` · ⭐ 0 · Jan 27, 2026
-- **[promptpaste](https://github.com/lirrensi/promptpaste)** · Smol cli tool to easy manage your prompts/instructions/whatever · `Python` · ⭐ 0 · Jan 26, 2026
-- **[VibeAlongBench](https://github.com/lirrensi/VibeAlongBench)** · VibeAlongBench explores which llms are vibing with you, or rather - on your side vs being boring · `Python` · ⭐ 0 · Jan 25, 2026
-- **[Chatata](https://github.com/lirrensi/Chatata)** · single file llm-to-llm chat (or like slop genetator) · `HTML` · ⭐ 0 · Jan 24, 2026
-- **[stickygator](https://github.com/lirrensi/stickygator)** · Just another &#39;sticky note&#39; app, for someone who likes panels and such · `Vue` · ⭐ 0 · Dec 11, 2025
-- **[comlink-py](https://github.com/lirrensi/comlink-py)** · comlink-py solves a real pain for ML, data science, and plugin authors: - isolate dependencies... · `Python` · ⭐ **1** · Jun 08, 2025
-- **[wp-taxonomy-migrate](https://github.com/lirrensi/wp-taxonomy-migrate)** · Taxonomy Migrate is an essential WordPress plugin for shop owners... · `PHP` · ⭐ 0 · Mar 14, 2025
-
-*Full list on [GitHub](https://github.com/lirrensi?tab=repositories). Data auto-fresh! 🔄*
-
----
+- **🎤 [loophole -- Continuous ASR \| dictation app that runs however long...](https://github.com/lirrensi/loophole)** · `Python`
+- **🔌 [silc -- SILC is a bridge to allow one-many parties to interact with same terminal...](https://github.com/lirrensi/silc)** · `Python`
+- **🔍 [nexi-search -- A quick cli search when your stupid agents have problems searching](https://github.com/lirrensi/nexi-search)** · `Python`
+- **💬 [ChatLayer -- Human-in-the-loop conversation middleware for customer-facing bots...](https://github.com/lirrensi/ChatLayer)** · `TypeScript`
+- **🛡️ [tamper-guard -- simple canary script to improve windows security on login screen](https://github.com/lirrensi/tamper-guard)** · `PowerShell`
+- **🐝 [swarmkeeper -- Mini tmux session wrapper that looks inside and checks if your coding agent is slacking...](https://github.com/lirrensi/swarmkeeper)** · `Python`
+- **⚙️ [easycmd -- VSCode extension for easy exec cmd commands from special file or directly from comments](https://github.com/lirrensi/easycmd)** · `TypeScript`
+- **📝 [promptpaste -- Smol cli tool to easy manage your prompts/instructions/whatever](https://github.com/lirrensi/promptpaste)** · `Python`
+- **🎸 [VibeAlongBench -- VibeAlongBench explores which llms are vibing with you, or rather - on your side vs being boring](https://github.com/lirrensi/VibeAlongBench)** · `Python`
+- **🗣️ [Chatata -- single file llm-to-llm chat (or like slop genetator)](https://github.com/lirrensi/Chatata)** · `HTML`
+- **📌 [stickygator -- Just another &#39;sticky note&#39; app, for someone who likes panels and such](https://github.com/lirrensi/stickygator)** · `Vue`
+- **🔒 [comlink-py -- comlink-py solves a real pain for ML, data science, and plugin authors: - isolate dependencies...](https://github.com/lirrensi/comlink-py)** · `Python`
+- **🗂️ [wp-taxonomy-migrate -- Taxonomy Migrate is an essential WordPress plugin for shop owners...](https://github.com/lirrensi/wp-taxonomy-migrate)** · `PHP`
