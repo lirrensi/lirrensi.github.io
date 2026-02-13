@@ -15,6 +15,7 @@
 
 ## 📂 Triple-regenerated devslop:
 
+- **🔒 [Multifrost -- comlink-py but cooler, solves a real pain for ML, data science, and plugin authors: - isolate dependencies...](https://github.com/lirrensi/Multifrost)** · `Python`
 - **🎤 [loophole -- Continuous ASR \| dictation app that runs however long...](https://github.com/lirrensi/loophole)** · `Python`
 - **🔌 [silc -- SILC is a bridge to allow one-many parties to interact with same terminal...](https://github.com/lirrensi/silc)** · `Python`
 - **🔍 [nexi-search -- A quick cli search when your stupid agents have problems searching](https://github.com/lirrensi/nexi-search)** · `Python`
@@ -26,5 +27,11 @@
 - **🎸 [VibeAlongBench -- VibeAlongBench explores which llms are vibing with you, or rather - on your side vs being boring](https://github.com/lirrensi/VibeAlongBench)** · `Python`
 - **🗣️ [Chatata -- single file llm-to-llm chat (or like slop genetator)](https://github.com/lirrensi/Chatata)** · `HTML`
 - **📌 [stickygator -- Just another &#39;sticky note&#39; app, for someone who likes panels and such](https://github.com/lirrensi/stickygator)** · `Vue`
-- **🔒 [comlink-py -- comlink-py solves a real pain for ML, data science, and plugin authors: - isolate dependencies...](https://github.com/lirrensi/comlink-py)** · `Python`
 - **🗂️ [wp-taxonomy-migrate -- Taxonomy Migrate is an essential WordPress plugin for shop owners...](https://github.com/lirrensi/wp-taxonomy-migrate)** · `PHP`
+
+
+## 🔗 Useful Gists
+
+- **⏳ [KeepHDDAwake.ps1](https://gist.github.com/lirrensi/1f10a02fe5adc89c9996d1155210d24e)** · `PowerShell` - Keeps your external enclosure HDDs spinning forever without sleep
+- **💾 [shrink_wsl.ps1](https://gist.github.com/lirrensi/4eda18d6fcc0ea6b491f7bdc829722d4)** · `PowerShell` - Reclaim WSL disk space by shrinking containers
+- **🤖 [meta-manager.md](https://gist.github.com/lirrensi/a7f476da11a46411a679476a6492fc1a)** · `Markdown` - Opencode agent for managing opencode itself
